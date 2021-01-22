@@ -1,9 +1,12 @@
 ✔ I have finished **506 Magento projects** in Upwork, and you can hire me there: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
-It has 1400+ registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)  
-✔ I have already implemented 40+ reusable open-sourced modules for Magento 2: [https://mage2.pro/c/extensions](https://mage2.pro/c/extensions)  
+It has **1400+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)  
+✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
+I have made **4500+** commits to it during **5.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)  
+✔ I have implemented **40+** reusable open-sourced modules for Magento 2: [https://mage2.pro/c/extensions](https://mage2.pro/c/extensions)  
 All of them are published in my `mage2pro` GitHub account: [https://github.com/mage2pro](https://github.com/mage2pro)  
-An example of my popular module is Stripe:
+✔ There are **22** payment modules among them [mage2.pro/tag/payment-extension](https://mage2.pro/tag/payment-extension)  
+An example of my popular payment module is Stripe:
 - [mage2.pro/c/stripe](https://mage2.pro/c/stripe)
 - [github.com/mage2pro/stripe](https://github.com/mage2pro/stripe)
 - [stripe.mage2.pro/customers](https://stripe.mage2.pro/customers)
