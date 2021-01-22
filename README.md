@@ -15,7 +15,7 @@ An example of my popular module is Stripe:
 - [github.com/doormall-hk/shipping](https://github.com/doormall-hk/shipping)
 - [github.com/kingpalm-com/b2b](https://github.com/kingpalm-com/b2b)
 - [github.com/sayitwithagift/options](https://github.com/sayitwithagift/options)
-- [github.com/blushme/checkout](https://github.com/blushme/checkout)
+- [github.com/blushme/checkout](https://github.com/blushme/checkout)  
 ✔ I have implemented a lot of Magento 2 upgrade projects, e.g.:
 - An upgrade from 2.2.3 to 2.3.5 (`dxmoto.com`): [mage2.pro/t/6164](https://mage2.pro/t/6164)
 - An upgrade from 2.2.6 to 2.3.4 (`blushme.se`): [mage2.pro/t/6114](https://mage2.pro/t/6114)
