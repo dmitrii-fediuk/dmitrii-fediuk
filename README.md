@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**dmitry-fedyuk/dmitry-fedyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ I have finished **506 Magento projects** in Upwork, and you can hire me there: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)
+✔ I am the creator of [mage2.pro](https://mage2.pro)
+It has 1400+ registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)
+✔ I have already implemented 40+ reusable open-sourced modules for Magento 2: [https://mage2.pro/c/extensions](https://mage2.pro/c/extensions)
+All of them are published in my `mage2pro` GitHub account: [https://github.com/mage2pro](https://github.com/mage2pro)
+An example of my popular module is Stripe:
+- [mage2.pro/c/stripe](https://mage2.pro/c/stripe)
+- [github.com/mage2pro/stripe](https://github.com/mage2pro/stripe)
+- [stripe.mage2.pro/customers](https://stripe.mage2.pro/customers)
+✔ Also, I have implemented a lot of bespoke module for Magento 2, e.g.:
+- [github.com/justuno-com/m2](https://github.com/justuno-com/m2)
+- [github.com/inkifi/pwinty](https://github.com/inkifi/pwinty)
+- [github.com/inkifi/mediaclip](https://github.com/inkifi/mediaclip)
+- [github.com/wolfautoparts-com/filter](https://github.com/wolfautoparts-com/filter)
+- [github.com/doormall-hk/shipping](https://github.com/doormall-hk/shipping)
+- [github.com/kingpalm-com/b2b](https://github.com/kingpalm-com/b2b)
+- [github.com/sayitwithagift/options](https://github.com/sayitwithagift/options)
+- [github.com/blushme/checkout](https://github.com/blushme/checkout)
+✔ I have implemented a lot of Magento 2 upgrade projects, e.g.:
+- An upgrade from 2.2.3 to 2.3.5 (`dxmoto.com`): [mage2.pro/t/6164](https://mage2.pro/t/6164)
+- An upgrade from 2.2.6 to 2.3.4 (`blushme.se`): [mage2.pro/t/6114](https://mage2.pro/t/6114)
+- An upgrade from 2.2.6 to 2.3.2 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6034](https://mage2.pro/t/6034)
+- An upgrade from 2.2.8 to 2.3.2 (`shiftsst.com`): [mage2.pro/t/6028](https://mage2.pro/t/6028)
+- An upgrade from 2.1.9 to 2.3.0 (`frugue.com`): [mage2.pro/t/5860](https://mage2.pro/t/5860)
+- An upgrade from 2.1.9 to 2.2.6 (`gymstar.ca`): [mage2.pro/t/5679](https://mage2.pro/t/5679)
+- An upgrade from 2.1.7 to 2.2.5 (`laurengadams.com`): [mage2.pro/t/5600](https://mage2.pro/t/5600)
+- An upgrade from 2.0.2 to 2.2.2 (`earosacoustic.com`): [mage2.pro/t/5341](https://mage2.pro/t/5341)
