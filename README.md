@@ -6,7 +6,8 @@ All of them are published in my `mage2pro` GitHub account: [https://github.com/m
 An example of my popular module is Stripe:
 - [mage2.pro/c/stripe](https://mage2.pro/c/stripe)
 - [github.com/mage2pro/stripe](https://github.com/mage2pro/stripe)
-- [stripe.mage2.pro/customers](https://stripe.mage2.pro/customers)    
+- [stripe.mage2.pro/customers](https://stripe.mage2.pro/customers)
+
 ✔ Also, I have implemented a lot of bespoke module for Magento 2, e.g.:
 - [github.com/justuno-com/m2](https://github.com/justuno-com/m2)
 - [github.com/inkifi/pwinty](https://github.com/inkifi/pwinty)
@@ -15,7 +16,8 @@ An example of my popular module is Stripe:
 - [github.com/doormall-hk/shipping](https://github.com/doormall-hk/shipping)
 - [github.com/kingpalm-com/b2b](https://github.com/kingpalm-com/b2b)
 - [github.com/sayitwithagift/options](https://github.com/sayitwithagift/options)
-- [github.com/blushme/checkout](https://github.com/blushme/checkout)  
+- [github.com/blushme/checkout](https://github.com/blushme/checkout)
+
 ✔ I have implemented a lot of Magento 2 upgrade projects, e.g.:
 - An upgrade from 2.2.3 to 2.3.5 (`dxmoto.com`): [mage2.pro/t/6164](https://mage2.pro/t/6164)
 - An upgrade from 2.2.6 to 2.3.4 (`blushme.se`): [mage2.pro/t/6114](https://mage2.pro/t/6114)
