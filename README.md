@@ -30,3 +30,9 @@ An example of my popular payment module is Stripe:
 - An upgrade from 2.1.9 to 2.2.6 (`gymstar.ca`): [mage2.pro/t/5679](https://mage2.pro/t/5679)
 - An upgrade from 2.1.7 to 2.2.5 (`laurengadams.com`): [mage2.pro/t/5600](https://mage2.pro/t/5600)
 - An upgrade from 2.0.2 to 2.2.2 (`earosacoustic.com`): [mage2.pro/t/5341](https://mage2.pro/t/5341)
+
+✔ Besides Magento, I have some other projects:
+- [df.tips](https://df.tips): I post there notes not related to Magento
+- [oplatform.club](https://oplatform.club): some notes on Oro Platform
+- [discourse.pro](https://discourse.pro): some notes on Discourse forum software 
+- [dmitry.ai](https://dmitry.ai): some notes on A.I.
