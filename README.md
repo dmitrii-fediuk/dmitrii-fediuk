@@ -6,7 +6,7 @@ All of them are published in my `mage2pro` GitHub account: [https://github.com/m
 An example of my popular module is Stripe:
 - [mage2.pro/c/stripe](https://mage2.pro/c/stripe)
 - [github.com/mage2pro/stripe](https://github.com/mage2pro/stripe)
-- [stripe.mage2.pro/customers](https://stripe.mage2.pro/customers)
+- [stripe.mage2.pro/customers](https://stripe.mage2.pro/customers)  
 ✔ Also, I have implemented a lot of bespoke module for Magento 2, e.g.:
 - [github.com/justuno-com/m2](https://github.com/justuno-com/m2)
 - [github.com/inkifi/pwinty](https://github.com/inkifi/pwinty)
