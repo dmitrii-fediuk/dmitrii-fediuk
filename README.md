@@ -1,7 +1,7 @@
-✔ I have finished **506 Magento projects** in Upwork, and you can hire me there: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)
-✔ I am the creator of [mage2.pro](https://mage2.pro)
-It has 1400+ registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)
-✔ I have already implemented 40+ reusable open-sourced modules for Magento 2: [https://mage2.pro/c/extensions](https://mage2.pro/c/extensions)
+✔ I have finished **506 Magento projects** in Upwork, and you can hire me there: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
+✔ I am the creator of [mage2.pro](https://mage2.pro)  
+It has 1400+ registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)  
+✔ I have already implemented 40+ reusable open-sourced modules for Magento 2: [https://mage2.pro/c/extensions](https://mage2.pro/c/extensions)  
 All of them are published in my `mage2pro` GitHub account: [https://github.com/mage2pro](https://github.com/mage2pro)
 An example of my popular module is Stripe:
 - [mage2.pro/c/stripe](https://mage2.pro/c/stripe)
