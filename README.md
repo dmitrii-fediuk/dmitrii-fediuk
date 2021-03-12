@@ -36,3 +36,5 @@ An example of my popular payment module is Stripe:
 - [oplatform.club](https://oplatform.club): some notes on Oro Platform
 - [discourse.pro](https://discourse.pro): some notes on Discourse forum software 
 - [dmitry.ai](https://dmitry.ai): some notes on A.I.
+
+[![Dmitry Fedyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/dmitry-fedyuk)](https://github.com/anuraghazra/github-readme-stats)
