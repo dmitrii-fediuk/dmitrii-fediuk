@@ -1,6 +1,6 @@
 [![Dmitry Fedyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-fedyuk&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-✔ I have finished **507 Magento projects** in Upwork, and you can hire me there: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
+✔ I have finished **510 Magento projects** in Upwork, and you can hire me there: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
 It has **1400+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)  
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
