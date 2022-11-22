@@ -4,7 +4,7 @@
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
 It has **1400+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?period=all](https://mage2.pro/u?period=all)  
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
-I have made **4500+** commits to it during **5.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)  
+I have made **6400+** commits to it during **7** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)  
 ✔ I have implemented **40+** reusable open-sourced modules for Magento 2: [mage2.pro/c/extensions](https://mage2.pro/c/extensions)  
 All of them are published in my `mage2pro` GitHub account: [github.com/mage2pro](https://github.com/mage2pro)  
 ✔ There are **22** payment modules among them [mage2.pro/tag/payment-extension](https://mage2.pro/tag/payment-extension)  
