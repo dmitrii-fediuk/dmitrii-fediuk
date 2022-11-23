@@ -1,12 +1,12 @@
 [![Dmitry Fedyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-fedyuk&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-✔ I have finished **524 Magento projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).
-✔ I have developed [130+ open source modules](https://github.com/topics/mage2pro) for Magento 2.
-✔ 12+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).
-✔ 7.5+ years of dedicated experience with Magento 2 ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).
-✔ I started working with Magento 2 in May 2015, and within the six months before the first Magento 2 release I [documented 228 issues in the official issue tracker](https://github.com/magento/magento2/issues?q=is%3Aissue+author%3Admitry-fedyuk+sort%3Acomments-desc).
+✔ I have finished **524 Magento projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
+✔ I have developed [130+ open source modules](https://github.com/topics/mage2pro) for Magento 2.  
+✔ 12+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).  
+✔ 7.5+ years of dedicated experience with Magento 2 ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
+✔ I started working with Magento 2 in May 2015, and within the six months before the first Magento 2 release I [documented 228 issues in the official issue tracker](https://github.com/magento/magento2/issues?q=is%3Aissue+author%3Admitry-fedyuk+sort%3Acomments-desc).  
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
-It has **1600+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?order=posts_read&period=all](https://mage2.pro/u?order=posts_read&period=all)
+It has **1600+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?order=posts_read&period=all](https://mage2.pro/u?order=posts_read&period=all)  
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
 I have made **6600+** commits to it during **7** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)    
 ✔ **40+** of my modules (reusable) are [documented on my mage2.pro website](mage2.pro/c/extensions) and published in my [`mage2pro`](https://github.com/mage2pro) GitHub account.  
