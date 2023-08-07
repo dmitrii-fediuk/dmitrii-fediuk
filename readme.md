@@ -1,14 +1,14 @@
 [![Dmitry Fedyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-✔ I have finished **527 Magento projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
+✔ I have finished **528 Magento (Adobe Commerce) projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
 ✔ I have developed [130+ open source modules](https://github.com/topics/mage2pro) for Magento 2.  
-✔ 12+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).  
-✔ 7.5+ years of dedicated experience with Magento 2 ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
+✔ 13+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).  
+✔ 8+ years of dedicated experience with Magento 2 ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
 ✔ I started working with Magento 2 in May 2015, and within the six months before the first Magento 2 release I [documented 228 issues in the official issue tracker](https://github.com/magento/magento2/issues?q=is%3Aissue+author%3Admitrii-fediuk+sort%3Acomments-desc).  
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
 It has **1600+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?order=posts_read&period=all](https://mage2.pro/u?order=posts_read&period=all)  
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
-I have made **6600+** commits to it during **7** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)    
+I have made **8000+** commits to it during **7** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)    
 ✔ **40+** of my modules (reusable) are [documented on my mage2.pro website](mage2.pro/c/extensions) and published in my [`mage2pro`](https://github.com/mage2pro) GitHub account.  
 ✔ There are [**22** payment modules](https://mage2.pro/tag/payment-extension) among them. 
 An example of my popular payment module is Stripe:
@@ -27,6 +27,8 @@ An example of my popular payment module is Stripe:
 - [github.com/blushme/checkout](https://github.com/blushme/checkout)
 
 ✔ I have implemented a lot of Magento 2 upgrade projects, e.g.:
+- An upgrade from 2.3.6-p1 to 2.3.7-p4 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6360](https://mage2.pro/t/6360)
+- An upgrade from 2.3.2 to 2.3.6-p1 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6359](https://mage2.pro/t/6359)
 - An upgrade from 2.2.3 to 2.3.5 (`dxmoto.com`): [mage2.pro/t/6164](https://mage2.pro/t/6164)
 - An upgrade from 2.2.6 to 2.3.4 (`blushme.se`): [mage2.pro/t/6114](https://mage2.pro/t/6114)
 - An upgrade from 2.2.6 to 2.3.2 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6034](https://mage2.pro/t/6034)
