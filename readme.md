@@ -8,7 +8,7 @@
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
 It has **1600+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?order=posts_read&period=all](https://mage2.pro/u?order=posts_read&period=all)  
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
-I have made **8000+** commits to it during **7** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)    
+I have made **8000+** commits to it during **8** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)    
 ✔ **40+** of my modules (reusable) are [documented on my mage2.pro website](mage2.pro/c/extensions) and published in my [`mage2pro`](https://github.com/mage2pro) GitHub account.  
 ✔ There are [**22** payment modules](https://mage2.pro/tag/payment-extension) among them. 
 An example of my popular payment module is Stripe:
