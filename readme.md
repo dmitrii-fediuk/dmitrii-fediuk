@@ -4,7 +4,8 @@
 ✔ I have developed [130+ open source modules](https://github.com/topics/mage2pro) for Magento 2.  
 🌐 My primary websites:
   - [mage2.pro](https://mage2.pro/latest?&order=views)
-  - [df.tips](https://df.tips/latest?&order=views)  
+  - [df.tips](https://df.tips/latest?&order=views)
+
 ✔ 14+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).  
 ✔ Almost 9 years of dedicated Magento 2 experience ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
 ✔ I started working with Magento 2 in May 2015, and within the 6 months before the first Magento 2 release I [documented 228 issues in the official issue tracker](https://github.com/magento/magento2/issues?q=is%3Aissue+author%3Admitrii-fediuk+sort%3Acomments-desc).  
