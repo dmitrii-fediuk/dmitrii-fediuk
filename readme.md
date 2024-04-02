@@ -13,8 +13,8 @@
 I have made **8372** commits to it during **8.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
 
 🌐 My primary websites:
-  - [mage2.pro](https://mage2.pro/latest?&order=views)
-  - [df.tips](https://df.tips/latest?&order=views)
+  - [mage2.pro](https://mage2.pro?order=views)
+  - [df.tips](https://df.tips?order=views)
 
 ✔ 14+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).  
 ✔ Almost 9 years of dedicated Magento 2 experience ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
