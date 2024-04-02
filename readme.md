@@ -1,6 +1,6 @@
 [![Dmitry Fedyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-✔ I have finished **530 Magento (Adobe Commerce) projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
+✔ I have finished **532 Magento (Adobe Commerce) projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
 ✔ Some of my work on Magento 2:
   - modules:
     - [**127 open source**](https://github.com/topics/mage2pro-module-ready)
