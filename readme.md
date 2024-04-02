@@ -4,7 +4,7 @@
 ✔ Some of my GitHub repositories:
   - [**127 open source** modules for Magento 2](https://github.com/topics/mage2pro-module-reusable)
   - [**60 reusable** modules for Magento 2](https://github.com/topics/mage2pro-module-reusable)
-  - [**67** bespoke** modules for Magento 2](https://github.com/topics/mage2pro-module-bespoke)
+  - [**67 bespoke** modules for Magento 2](https://github.com/topics/mage2pro-module-bespoke)
   - [**35 websites** on Magento 2](https://github.com/topics/mage2pro-site)
   - [**40 payment** modules for Magento 2](https://github.com/topics/mage2pro-payment)
 
