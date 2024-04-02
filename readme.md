@@ -2,11 +2,12 @@
 
 ✔ I have finished **530 Magento (Adobe Commerce) projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
 ✔ Some of my work on Magento 2:
-  - [**127 open source** modules](https://github.com/topics/mage2pro-module-ready)
-  - [**60 reusable** modules](https://github.com/topics/mage2pro-module-reusable)
-  - [**67 bespoke** modules](https://github.com/topics/mage2pro-module-bespoke)
+  - modules:
+    - [**127 open source**](https://github.com/topics/mage2pro-module-ready)
+    - [**60 reusable**](https://github.com/topics/mage2pro-module-reusable)
+    - [**67 bespoke**](https://github.com/topics/mage2pro-module-bespoke)
+    - [**40 payment**](https://github.com/topics/mage2pro-payment)
   - [**35 websites**](https://github.com/topics/mage2pro-site)
-  - [**40 payment** modules](https://github.com/topics/mage2pro-payment)
 
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
 I have made **8372** commits to it during **8.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
