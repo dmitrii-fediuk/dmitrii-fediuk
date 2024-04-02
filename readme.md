@@ -2,7 +2,7 @@
 
 ✔ I have finished **530 Magento (Adobe Commerce) projects** in Upwork, and you can [hire me there](https://www.upwork.com/fl/mage2pro).  
 ✔ Some of my work on Magento 2:
-  - [**127 open source** modules](https://github.com/topics/mage2pro-module-reusable)
+  - [**127 open source** modules](https://github.com/topics/mage2pro-module-ready)
   - [**60 reusable** modules](https://github.com/topics/mage2pro-module-reusable)
   - [**67 bespoke** modules](https://github.com/topics/mage2pro-module-bespoke)
   - [**35 websites**](https://github.com/topics/mage2pro-site)
