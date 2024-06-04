@@ -10,7 +10,7 @@
   - [**35 websites**](https://github.com/topics/mage2pro-site)
 
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
-I have made **8372** commits to it during **8.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
+I have made **8800+** commits to it during **8.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
 
 🌐 My primary websites:
   - [mage2.pro](https://mage2.pro?order=views)
