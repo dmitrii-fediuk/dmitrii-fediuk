@@ -35,7 +35,7 @@ It has **1700+** registered users (administrators and store owners) of Magento 2
 - An upgrade from 2.0.2 to 2.2.2 (`earosacoustic.com`): [mage2.pro/t/5341](https://mage2.pro/t/5341)
 
 ✔ Besides Magento, I have some other projects:
-- [df.tips](https://df.tips): some notes not related to Magento
-- [dmitry.ai](https://dmitry.ai): some notes on A.I.
-- [discourse.pro](https://discourse.pro): some notes on Discourse forum software
-- [oplatform.club](https://oplatform.club): some notes on Oro Platform
+- [df.tips](https://df.tips?order=views): some notes not related to Magento
+- [dmitry.ai](https://dmitry.ai?order=views): some notes on A.I.
+- [discourse.pro](https://discourse.pro?order=views): some notes on Discourse forum software
+- [oplatform.club](https://oplatform.club?order=views): some notes on Oro Platform
