@@ -4,10 +4,10 @@
 ✔ Some of my work on Magento 2:
   - modules:
     - [**127 open source**](https://github.com/topics/mage2pro-module-ready)
-    - [**60 reusable**](https://github.com/topics/mage2pro-module-reusable)
-    - [**67 bespoke**](https://github.com/topics/mage2pro-module-bespoke)
-    - [**40 payment**](https://github.com/topics/mage2pro-payment)
-  - [**35 websites**](https://github.com/topics/mage2pro-site)
+    - [**59 reusable**](https://github.com/topics/mage2pro-module-reusable)
+    - [**68 bespoke**](https://github.com/topics/mage2pro-module-bespoke)
+    - [**26 payment**](https://github.com/topics/mage2pro-payment)
+  - [**37 websites**](https://github.com/topics/mage2pro-site)
 
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
 I have made **9900+** commits to it during **9** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
