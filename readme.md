@@ -22,18 +22,6 @@ I have made **9900+** commits to it during **9** years: [github.com/mage2pro/cor
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
 It has **1700+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?order=posts_read&period=all](https://mage2.pro/u?order=posts_read&period=all)
 
-✔ I have implemented a lot of Magento 2 upgrade projects, e.g.:
-- An upgrade from 2.3.6-p1 to 2.3.7-p4 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6360](https://mage2.pro/t/6360)
-- An upgrade from 2.3.2 to 2.3.6-p1 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6359](https://mage2.pro/t/6359)
-- An upgrade from 2.2.3 to 2.3.5 (`dxmoto.com`): [mage2.pro/t/6164](https://mage2.pro/t/6164)
-- An upgrade from 2.2.6 to 2.3.4 (`blushme.se`): [mage2.pro/t/6114](https://mage2.pro/t/6114)
-- An upgrade from 2.2.6 to 2.3.2 (`tradefurniturecompany.co.uk`): [mage2.pro/t/6034](https://mage2.pro/t/6034)
-- An upgrade from 2.2.8 to 2.3.2 (`shiftsst.com`): [mage2.pro/t/6028](https://mage2.pro/t/6028)
-- An upgrade from 2.1.9 to 2.3.0 (`frugue.com`): [mage2.pro/t/5860](https://mage2.pro/t/5860)
-- An upgrade from 2.1.9 to 2.2.6 (`gymstar.ca`): [mage2.pro/t/5679](https://mage2.pro/t/5679)
-- An upgrade from 2.1.7 to 2.2.5 (`laurengadams.com`): [mage2.pro/t/5600](https://mage2.pro/t/5600)
-- An upgrade from 2.0.2 to 2.2.2 (`earosacoustic.com`): [mage2.pro/t/5341](https://mage2.pro/t/5341)
-
 ✔ Besides Magento, I have some other projects:
 - [df.tips](https://df.tips?order=views): some notes not related to Magento
 - [dmitry.ai](https://dmitry.ai?order=views): some notes on A.I.
