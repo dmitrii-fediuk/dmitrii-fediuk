@@ -10,7 +10,7 @@
   - [**35 websites**](https://github.com/topics/mage2pro-site)
 
 ✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
-I have made **8800+** commits to it during **8.5** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
+I have made **9900+** commits to it during **9** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
 
 🌐 My primary websites:
   - [mage2.pro](https://mage2.pro?order=views)
@@ -35,7 +35,7 @@ It has **1700+** registered users (administrators and store owners) of Magento 2
 - An upgrade from 2.0.2 to 2.2.2 (`earosacoustic.com`): [mage2.pro/t/5341](https://mage2.pro/t/5341)
 
 ✔ Besides Magento, I have some other projects:
-- [df.tips](https://df.tips): I post there notes not related to Magento
+- [df.tips](https://df.tips): some notes not related to Magento
 - [oplatform.club](https://oplatform.club): some notes on Oro Platform
 - [discourse.pro](https://discourse.pro): some notes on Discourse forum software 
 - [dmitry.ai](https://dmitry.ai): some notes on A.I.
