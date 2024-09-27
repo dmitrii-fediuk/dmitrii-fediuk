@@ -1,6 +1,6 @@
 [![Dmitrii Fediuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- You can hire me via [Upwork](https://www.upwork.com/fl/mage2pro): I have done **532** done Magento (Adobe Commerce) projects there.
+- You can hire me via [Upwork](https://www.upwork.com/fl/mage2pro): I have done **532** done Magento projects there.
 - My primary Magento project is [`mage2pro/core`](https://github.com/mage2pro/core).
 - My other Magento projects:
   - modules:
