@@ -17,7 +17,7 @@ I have made **9900+** commits to it during **9** years: [github.com/mage2pro/cor
   - [df.tips](https://df.tips?order=views)
 
 ✔ 14+ years of dedicated Magento (Adobe Commerce) experience ([since 2010](https://magento-forum.ru/user/1)).  
-✔ Almost 9 years of dedicated Magento 2 experience ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
+✔ 9 years of dedicated Magento 2 experience ([since 2015](https://mage2.pro/u/dmitry_fedyuk)).  
 ✔ I started working with Magento 2 in May 2015, and within the 6 months before the first Magento 2 release I [documented 228 issues in the official issue tracker](https://github.com/magento/magento2/issues?q=is%3Aissue+author%3Admitrii-fediuk+sort%3Acomments-desc).  
 ✔ I am the creator of [mage2.pro](https://mage2.pro)  
 It has **1700+** registered users (administrators and store owners) of Magento 2: [mage2.pro/u?order=posts_read&period=all](https://mage2.pro/u?order=posts_read&period=all)
