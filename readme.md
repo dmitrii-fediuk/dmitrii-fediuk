@@ -1,7 +1,8 @@
 [![Dmitrii Fediuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-✔ I have done **532** Magento (Adobe Commerce) projects on [Upwork](https://www.upwork.com/fl/mage2pro).  
-✔ Some of my work on Magento 2:
+- You can hire me via [Upwork](https://www.upwork.com/fl/mage2pro) (**532** done Magento (Adobe Commerce) projects there).
+- My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.
+- Other work on Magento 2:
   - modules:
     - [**127 open source**](https://github.com/topics/mage2pro-module-ready)
     - [**59 reusable**](https://github.com/topics/mage2pro-module-reusable)
@@ -9,7 +10,6 @@
     - [**26 payment**](https://github.com/topics/mage2pro-payment)
   - [**37 websites**](https://github.com/topics/mage2pro-site)
 
-✔ My biggest Magento project is the [`mage2pro/core`](https://github.com/mage2pro/core) middleware.  
 I have made **9900+** commits to it during **9** years: [github.com/mage2pro/core/graphs/contributors](https://github.com/mage2pro/core/graphs/contributors)
 
 🌐 My primary websites:
