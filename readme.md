@@ -36,6 +36,6 @@ It has **1700+** registered users (administrators and store owners) of Magento 2
 
 ✔ Besides Magento, I have some other projects:
 - [df.tips](https://df.tips): some notes not related to Magento
-- [oplatform.club](https://oplatform.club): some notes on Oro Platform
-- [discourse.pro](https://discourse.pro): some notes on Discourse forum software 
 - [dmitry.ai](https://dmitry.ai): some notes on A.I.
+- [discourse.pro](https://discourse.pro): some notes on Discourse forum software
+- [oplatform.club](https://oplatform.club): some notes on Oro Platform
