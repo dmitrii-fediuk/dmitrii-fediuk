@@ -1,4 +1,4 @@
-[![Dmitrii Fediuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)
 
 - You can hire me via [Upwork](https://www.upwork.com/fl/mage2pro): I have done **532** done Magento / Adobe Commerce projects there.
 - My primary Magento / Adobe Commerce project is [`mage2pro/core`](https://github.com/mage2pro/core): a unique middleware that bridges the gap between the out-of-box Magento / Adobe Commerce software and the needs of real-world information systems.     
