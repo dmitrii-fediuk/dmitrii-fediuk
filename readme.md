@@ -34,4 +34,4 @@ It is the main result of my work with Magento / Adobe Commerce for 15 years, sin
 ⠀⠀⠀⠀🔅 [**129 open source**](https://github.com/topics/mage2pro-module-ready)  
 ⠀⠀⠀⠀🔅 [**61 reusable**](https://github.com/topics/mage2pro-module-reusable)  
 ⠀⠀⠀⠀🔅 [**68 bespoke**](https://github.com/topics/mage2pro-module-bespoke)  
-⠀⠀⠀⠀🔅 [**27 payment**](https://github.com/topics/mage2pro-payment)
+⠀⠀⠀⠀🔅 [**26 payment**](https://github.com/topics/mage2pro-payment)
