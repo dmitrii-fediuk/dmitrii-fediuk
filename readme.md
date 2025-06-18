@@ -35,3 +35,15 @@ It is the main result of my work with Magento / Adobe Commerce for 15 years, sin
 ⠀⠀⠀⠀🔅 [**61 reusable**](https://github.com/topics/mage2pro-module-reusable)  
 ⠀⠀⠀⠀🔅 [**68 bespoke**](https://github.com/topics/mage2pro-module-bespoke)  
 ⠀⠀⠀⠀🔅 [**26 payment**](https://github.com/topics/mage2pro-payment)
+🔸 Internet
+I rarely use the regular Internet.
+Instead, I create a [userscript](https://en.wikipedia.org/wiki/Userscript) for each website that I plan to visit ≥ 3 times a year and apply it via [Violentmonkey](https://violentmonkey.github.io).
+The userscript hides all the visual garbage from the website's interface: header, footer, sidebars, pop-ups, sticky elements, chat widgets, cookie consent banners, survey forms, and so on.
+To further eliminate distractions, I remove any empty space (such as the blank margins on fixed-width pages) and enforce 2 clean, large, and comfortable fonts to every website: one for ordinary text, and another for software code.
+When I read your messages on Upwork, only their text appears on the screen.
+This allows me to focus deeply on the meaning of your messages, on every word and comma you have written.
+I delve into what you write and think deeply about my answers.
+This is one of the reasons why I almost always reply to your messages slowly: I think deeply.
+Also, to achieve the highest quality, I usually dedicate the entire day to a single task, not jumping between tasks.
+For these 2 reasons, I usually respond to your messages ≤ once a day.
+The only exception is the task I am working on that day: since I have been deeply immersed in it since the morning, I can respond to messages about that task more frequently.
