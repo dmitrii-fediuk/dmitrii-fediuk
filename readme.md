@@ -34,7 +34,7 @@ It is the main result of my work with Magento / Adobe Commerce for 15 years, sin
 ⠀⠀⠀⠀🔅 [**129 open source**](https://github.com/topics/mage2pro-module-ready)  
 ⠀⠀⠀⠀🔅 [**61 reusable**](https://github.com/topics/mage2pro-module-reusable)  
 ⠀⠀⠀⠀🔅 [**68 bespoke**](https://github.com/topics/mage2pro-module-bespoke)  
-⠀⠀⠀⠀🔅 [**26 payment**](https://github.com/topics/mage2pro-payment)
+⠀⠀⠀⠀🔅 [**26 payment**](https://github.com/topics/mage2pro-payment)  
 🔸 Internet  
 I rarely use the regular Internet.  
 Instead, I create a [userscript](https://en.wikipedia.org/wiki/Userscript) for each website that I plan to visit ≥ 3 times a year and apply it via [Violentmonkey](https://violentmonkey.github.io).  
