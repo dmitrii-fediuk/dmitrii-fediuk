@@ -13,12 +13,12 @@ It makes the AI's reasoning ferociously powerful: it understands the essence of 
 🔸 **AI** / **My current models** (**July 2025**)  
 I always use the most powerful publicly available AIs, regardless of their price.  
 As of today, these are:
-1) **Gemini 2.5 Pro** 𝐆𝐞𝐦𝐢𝐧𝐢 𝟐.𝟓 𝐏𝐫𝐨 
+1) **Gemini 2.5 Pro** 
 2) **OpenAI**'s **o3-pro**
 
 Since May 2025, I believe #1 surpasses #2 in both Reasoning and Deep Research.   
 I still use #2 for a second opinion.   
-I also have subscriptions to **Claud 4 Opus** and **Grok 4 Heavy**, but find them significantly inferior to the top two.  
+I also have subscriptions to **Claude 4 Opus** and **Grok 4 Heavy**, but find them significantly inferior to the top two.  
 🔸 **AI** / **Deep Research**  
 It increased the productivity of knowledge gathering by 1-2 orders of magnitude compared to searching for information via Google and then analyzing the articles independently.   
 🔸 **AI** / **Reasoning**  
