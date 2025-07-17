@@ -4,8 +4,8 @@
 🔸 GitHub: **47K+** public commits, [**248**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience  
 🔸 Certified **[IQ 145](https://df.tips/t/2644)**  
-🔸 Magento (Adobe Commerce): top **10** worldwide, [**129**](https://github.com/topics/mage2pro-module-ready) open source modules 
-🔸 [𝟐𝟒 certifications](https://www.credly.com/users/dmitrii-fediuk) validated by Credly
+🔸 Magento (Adobe Commerce): top **10** worldwide, [**129**](https://github.com/topics/mage2pro-module-ready) open source modules   
+🔸 [𝟐𝟒 certifications](https://www.credly.com/users/dmitrii-fediuk) validated by Credly  
 🔸 Advanced university degree in **Computer Science** and **Mathematics**, specializing in **AI**  
 🔸 **AI** / **Tools**  
 I avoid natural language queries and use a [formal language](https://en.wikipedia.org/wiki/Formal_language) to first build a detailed domain [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)).    
