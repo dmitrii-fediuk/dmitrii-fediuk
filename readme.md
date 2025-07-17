@@ -1,4 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)
+
 🔸 **536** completed projects on [Upwork](https://www.upwork.com/fl/mage2pro)  
 🔸 GitHub: **47K+** public commits, [**248**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience  
