@@ -10,10 +10,10 @@
 🔸 **AI** / **Tools**  
 I avoid natural language queries and use a [formal language](https://en.wikipedia.org/wiki/Formal_language) to first build a detailed domain [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)).    
 It makes the AI's reasoning ferociously powerful: it understands the essence of the task and discards unproductive hypotheses faster, allocating computational resources to significant ones.  
-🔸 **AI** / **My current models** (**July 2025**)  
+🔸 **AI** / **My current models** (**August 2025**)  
 I always use the most powerful publicly available AIs, regardless of their price.  
 As of today, these are:
-1) **Gemini 2.5 Pro** 
+1) **Gemini 2.5 [Ultra](https://gemini.google/subscriptions#plans)**: **[Deep Think](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Deep-Think-Model-Card.pdf)** & [**Deep Research**](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental) 
 2) **OpenAI**'s **o3-pro**
 
 Since May 2025, I believe #1 surpasses #2 in both Reasoning and Deep Research.   
