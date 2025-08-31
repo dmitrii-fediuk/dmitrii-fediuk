@@ -23,7 +23,7 @@ I use **4** parallel **Gemini AI** **[Ultra](https://gemini.google/subscriptions
 Thus, I have access to **40 queries** to **Deep Think** per day, which makes it my primary tool.  
 I also maintain subscriptions to the most expensive AIs from the other 3 major providers, which I use for cross-validation: **OpenAI o5 Pro** (**$240/mo**), **Claude 4.1 Opus** (**$240/mo**), **SuperGrok 4 Heavy** (**$360/mo**).  
 🔸 **Language**    
-I can communicate with you in your native language at a native professional level because I have developed my own multi-stage AI-based translation pipeline that integrates the subject domain, project context, and preceding dialogue. 
+I can communicate with you in your native language at a native professional level because I have developed my own multi-stage AI-based translation pipeline that integrates the subject domain, project context, and preceding dialogue.   
 🔸 **Lifestyle**  
 🔅 I sleep 9-10 hours daily, without exceptions.
 Deep and prolonged sleep is the foundation for maintaining my cognitive function, health, and daytime performance.  
