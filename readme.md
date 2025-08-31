@@ -52,7 +52,7 @@ It is the main result of my work with Magento / Adobe Commerce for 15 years, sin
 ⠀⠀⠀⠀🔅 [**68 bespoke**](https://github.com/topics/mage2pro-module-bespoke)  
 ⠀⠀⠀⠀🔅 [**26 payment**](https://github.com/topics/mage2pro-payment)    
 🔸 **My publications**:  
-⠀⠀⠀⠀🔅 [**df.tips**?order=views](https://df.tips?order=views)
-⠀⠀⠀⠀🔅 [**mage2.pro**?order=views](https://mage2.pro?order=views)  
-⠀⠀⠀⠀🔅 [**dmitry.ai**?order=views](https://dmitry.ai?order=views)  
+⠀⠀⠀⠀🔅 [**df.tips**?order=views](https://df.tips?order=views)  
+⠀⠀⠀⠀🔅 [**mage2.pro**?order=views](https://mage2.pro?order=views)    
+⠀⠀⠀⠀🔅 [**dmitry.ai**?order=views](https://dmitry.ai?order=views)    
   
