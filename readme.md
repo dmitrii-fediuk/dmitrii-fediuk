@@ -38,9 +38,9 @@ I intentionally moved to Türkiye for year-round access to supremely fresh, high
 🔸 **Workspace**    
 🔅 High-end workstation with 3 large monitors  
 🔅 Distraction-free environment:  
-    - Complete soundproofing
-    - All notifications (pop-ups, sound alerts) on my workstation are disabled
-	- My phone is always silent
+- Complete soundproofing
+- All notifications (pop-ups, sound alerts) on my workstation are disabled
+- My phone is always silent
 🔅 Top-tier and custom-fitted ergonomic chair  
 🔅 Perfectly balanced air conditioning and ventilation  
 🔅 Panoramic view of the Sea of Marmara and excellent sea air quality   
