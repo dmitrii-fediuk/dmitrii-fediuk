@@ -55,7 +55,7 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
       - [Pyridoxine hydrochloride](https://www.google.com/search?q=Pyridoxine+Hydrochloride+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
       - [Pyridoxal phosphate](https://www.google.com/search?q=Pyridoxal+phosphate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - 9
-      - [L-5-methyltetrahydrofolate][https://www.google.com/search?q=L-5-methyltetrahydrofolate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US]
+      - [L-5-methyltetrahydrofolate](https://www.google.com/search?q=L-5-methyltetrahydrofolate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - Magnesium:  
     - [Bisglycinate](https://www.google.com/search?q=Magnesium+bisglycinate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Citrate](https://www.google.com/search?q=Magnesium+citrate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
