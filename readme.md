@@ -54,7 +54,7 @@ Training after work promotes my deep and healthy sleep.
 	- [Salvia officinalis](https://en.wikipedia.org/wiki/Salvia_officinalis)  
 	- [Spermidine](https://en.wikipedia.org/wiki/Spermidine)  
 	- [Shiitake](https://www.google.com/search?q=Shiitake+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- [Shilajit](https://www.google.com/search?q=Shilajit+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US))
+	- [Shilajit](https://www.google.com/search?q=Shilajit+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 🔅 I eat only what fuels my maximum performance: nuts, greens, fish oil, vegetables, berries, seeds, dairy products.   
 I do not eat products with added sugar, meat, flour-based products, fried foods, fast food, or other junk food.  
 I intentionally moved to Türkiye for year-round access to supremely fresh, high-quality produce.   
