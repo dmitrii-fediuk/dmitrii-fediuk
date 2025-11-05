@@ -31,7 +31,7 @@ Deep and prolonged sleep is the foundation for maintaining my cognitive function
 Training before work promotes my high performance throughout the day.    
 Training after work promotes my deep and healthy sleep.  
 🔅 In addition to each training, I always take ice baths.   
-🔅 I take **20+** daily to boost my cognitive function and general health: 
+🔅 I take **20+** daily to boost my cognitive function and general health:   
 	- [α-lipoic acid](https://en.wikipedia.org/wiki/Lipoic_acid)  
 	- [N-acetylcysteine](https://en.wikipedia.org/wiki/Acetylcysteine)  
 	- [glycine](https://en.wikipedia.org/wiki/Glycine)  
