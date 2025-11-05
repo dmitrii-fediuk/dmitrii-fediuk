@@ -44,7 +44,7 @@ Training after work promotes my deep and healthy sleep.
 	- [Cordyceps militaris](https://www.google.com/search?q=Cordyceps+militaris+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Ganoderma lucidum](https://www.google.com/search?q=Ganoderma+lucidum+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Rhodiola rosea](https://www.google.com/search?q=Rhodiola+rosea+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- [Bacopa monnieri](https://en.wikipedia.org/wiki/Bacopa_monnieri)  
+	- [Bacopa monnieri](https://www.google.com/search?q=Bacopa+monnieri+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Berberine](https://www.google.com/search?q=Berberine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Ginkgo biloba](https://en.wikipedia.org/wiki/Ginkgo_biloba)  
 	- [Centella asiatica](https://en.wikipedia.org/wiki/Centella_asiatica)  
