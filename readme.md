@@ -31,7 +31,7 @@ Deep and prolonged sleep is the foundation for maintaining my cognitive function
 Training before work promotes my high performance throughout the day.    
 Training after work promotes my deep and healthy sleep.  
 🔅 In addition to each training, I always take ice baths.   
-🔅 I take **20+** daily to boost my cognitive function and general health:  
+🔅 I take **30+** supplements to boost my cognitive function and general health:  
 	- [Nicotinamide mononucleotide](https://www.google.com/search?q=Nicotinamide+mononucleotide+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
 	- [α-lipoic acid](https://www.google.com/search?q=α-lipoic+acid+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [N-Acetylcysteine](https://www.google.com/search?q=N-Acetylcysteine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
@@ -46,13 +46,14 @@ Training after work promotes my deep and healthy sleep.
 	- [Rhodiola rosea](https://www.google.com/search?q=Rhodiola+rosea+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Bacopa monnieri](https://www.google.com/search?q=Bacopa+monnieri+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Berberine](https://www.google.com/search?q=Berberine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- [Ginkgo biloba](https://en.wikipedia.org/wiki/Ginkgo_biloba)  
-	- [Centella asiatica](https://en.wikipedia.org/wiki/Centella_asiatica)  
-	- [Panax ginseng](https://en.wikipedia.org/wiki/Panax_ginseng)  
-	- [Matcha](https://en.wikipedia.org/wiki/Matcha)  
-	- [Chaga](https://en.wikipedia.org/wiki/Inonotus_obliquus)  
-	- [Omega-3](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) + [Cod liver oil](https://en.wikipedia.org/wiki/Cod_liver_oil)  
-	- [Salvia officinalis](https://en.wikipedia.org/wiki/Salvia_officinalis)  
+	- [Ginkgo biloba](
+https://www.google.com/search?q=Ginkgo+biloba+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Centella asiatica](https://www.google.com/search?q=Centella+asiatica+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Panax ginseng](https://www.google.com/search?q=Panax+ginseng+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Matcha](https://www.google.com/search?q=Matcha+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Inonotus obliquus](https://www.google.com/search?q=Inonotus+obliquus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Omega-3](https://www.google.com/search?q=Omega-3+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [Cod liver oil](https://www.google.com/search?q=Cod+liver+oil+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Salvia officinalis](https://www.google.com/search?q=Salvia+officinalis+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Spermidine](https://en.wikipedia.org/wiki/Spermidine)  
 	- [Shiitake](https://www.google.com/search?q=Shiitake+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Shilajit](https://www.google.com/search?q=Shilajit+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
