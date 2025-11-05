@@ -39,8 +39,9 @@ Training after work promotes my deep and healthy sleep.
   - [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - B vitamins:
-    - 1
-      - [Thiamine](https://www.google.com/search?q=Thiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+    - [1](https://www.google.com/search?q=Thiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+      - [Benfotiamine](https://www.google.com/search?q=Benfotiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+      - [Sulbutiamine](https://www.google.com/search?q=Sulbutiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - 2
       - [Riboflavin](https://www.google.com/search?q=Riboflavin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
       - [Riboflavin-5'-phosphate](https://www.google.com/search?q=Riboflavin-5'-phosphate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
