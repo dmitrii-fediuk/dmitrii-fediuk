@@ -56,6 +56,9 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
       - [Pyridoxal phosphate](https://www.google.com/search?q=Pyridoxal+phosphate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - 9
       - [L-5-methyltetrahydrofolate](https://www.google.com/search?q=L-5-methyltetrahydrofolate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+    - 12
+      - [Methylcobalamin](https://www.google.com/search?q=Methylcobalamin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+      - [Adenosylcobalamin](https://www.google.com/search?q=Adenosylcobalamin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - Magnesium:  
     - [Bisglycinate](https://www.google.com/search?q=Magnesium+bisglycinate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Citrate](https://www.google.com/search?q=Magnesium+citrate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
