@@ -38,6 +38,7 @@ Training after work promotes my deep and healthy sleep.
 	- [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Pyrroloquinoline quinone](https://www.google.com/search?q=Pyrroloquinoline+quinone+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
 	- [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Astragalus mongholicus](https://www.google.com/search?q=Astragalus+mongholicus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [TA-65](https://www.google.com/search?q=TA-65+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
