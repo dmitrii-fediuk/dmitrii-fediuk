@@ -44,6 +44,7 @@ Training after work promotes my deep and healthy sleep.
   - [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [L-Tyrosine](https://www.google.com/search?q=L-Tyrosine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Taurine](https://www.google.com/search?q=Taurine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Creatine](https://www.google.com/search?q=Creatine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - B vitamins:
     - [1](https://www.google.com/search?q=Thiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
       - [Benfotiamine](https://www.google.com/search?q=Benfotiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
