@@ -17,7 +17,7 @@ This rigorous process typically requires hours (and sometimes days).
 🔅 Once the ontology is constructed, I query the LLM using my formal language, attaching both the language specification and the ontology.  
 This methodology makes the AI's reasoning ferociously powerful: it accurately captures the essence of the task and discards unproductive hypotheses faster, directing the reasoning process towards the most promising ones.  
 I always use the most powerful publicly available AIs, regardless of their price; consequently, their context windows and computational resources are sufficient to process such complex queries.  
-🔸 **AI** / **My current models** (**September 2025**)  
+🔸 **AI** / **My current models** (**November 2025**)  
 As of today, the most powerful publicly available AI is **Gemini 2.5** **[Deep Think](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Deep-Think-Model-Card.pdf)**.  
 I use **5** parallel **Gemini AI** **[Ultra](https://gemini.google/subscriptions#plans)** accounts (totaling **$1250/mo**).   
 Thus, I have access to **50 queries** to **Deep Think** per day, which makes it my primary tool.  
