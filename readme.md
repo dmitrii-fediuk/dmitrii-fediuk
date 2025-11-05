@@ -72,6 +72,7 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
     - [L-Threonate](https://www.google.com/search?q=Magnesium+L-Threonate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Taurate](https://www.google.com/search?q=Magnesium+taurate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Astaxanthin](https://www.google.com/search?q=Astaxanthin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) 
   - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) 
   - [Curcumin](https://www.google.com/search?q=Curcumin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Quercetin](https://www.google.com/search?q=Quercetin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
