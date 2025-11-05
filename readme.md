@@ -38,6 +38,8 @@ Training after work promotes my deep and healthy sleep.
 	- [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Astragalus mongholicus](https://www.google.com/search?q=Astragalus+mongholicus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [TA-65](https://www.google.com/search?q=TA-65+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Bacopa monnieri](https://www.google.com/search?q=Bacopa+monnieri+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Berberine](https://www.google.com/search?q=Berberine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
@@ -54,8 +56,7 @@ Training after work promotes my deep and healthy sleep.
 	- [Rhodiola rosea](https://www.google.com/search?q=Rhodiola+rosea+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Salvia officinalis](https://www.google.com/search?q=Salvia+officinalis+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Shilajit](https://www.google.com/search?q=Shilajit+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+
  
 🔅 I eat only what fuels my maximum performance: nuts, greens, fish oil, vegetables, berries, seeds, dairy products.   
 I do not eat products with added sugar, meat, flour-based products, fried foods, fast food, or other junk food.  
