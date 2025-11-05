@@ -79,6 +79,7 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
   - [Passiflora incarnata](https://www.google.com/search?q=Passiflora+incarnata+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Valeriana officinalis](https://www.google.com/search?q=Valeriana+officinalis+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [L-Theanine](https://www.google.com/search?q=L-Theanine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Withania somnifera](https://www.google.com/search?q=Withania+somnifera+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Melatonin](https://www.google.com/search?q=Melatonin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Astragalus mongholicus](https://www.google.com/search?q=Astragalus+mongholicus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [TA-65](https://www.google.com/search?q=TA-65+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Bacopa monnieri](https://www.google.com/search?q=Bacopa+monnieri+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
