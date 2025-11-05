@@ -4,9 +4,9 @@
 🔸 **GitHub**: **48.6K+** public commits, [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience  
 🔸 Certified **[IQ 145](https://df.tips/t/2644)**  
-🔸 Magento (Adobe Commerce): top **10** worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules   
-🔸 [𝟐𝟒 certifications](https://www.credly.com/users/dmitrii-fediuk) validated by Credly  
-🔸 𝟗𝟔 items in my [Upwork portfolio](https://www.upwork.com/fl/mage2pro)  
+🔸 **Magento** (**Adobe Commerce**): top **10** worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules   
+🔸 [**𝟐𝟒** certifications](https://www.credly.com/users/dmitrii-fediuk) validated by Credly  
+🔸 **113** items in my [Upwork portfolio](https://www.upwork.com/fl/mage2pro)  
 🔸 Master of Science in **Computer Science** and **Mathematics**, specializing in **AI**  
 🔸 **AI** / **My methodology**   
 🔅 I avoid natural language queries to LLMs.   
