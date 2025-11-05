@@ -43,7 +43,7 @@ Training after work promotes my deep and healthy sleep.
   - [Pyrroloquinoline quinone](https://www.google.com/search?q=Pyrroloquinoline+quinone+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [L-Tyrosine](https://www.google.com/search?q=L-Tyrosine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
-  - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Taurine](https://www.google.com/search?q=Taurine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - B vitamins:
     - [1](https://www.google.com/search?q=Thiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
       - [Benfotiamine](https://www.google.com/search?q=Benfotiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
@@ -71,6 +71,7 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
     - [L-Threonate](https://www.google.com/search?q=Magnesium+L-Threonate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Taurate](https://www.google.com/search?q=Magnesium+taurate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) 
   - [L-Theanine](https://www.google.com/search?q=L-Theanine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Melatonin](https://www.google.com/search?q=Melatonin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Astragalus mongholicus](https://www.google.com/search?q=Astragalus+mongholicus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [TA-65](https://www.google.com/search?q=TA-65+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
