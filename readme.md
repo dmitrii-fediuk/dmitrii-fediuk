@@ -73,6 +73,8 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
     - [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Taurate](https://www.google.com/search?q=Magnesium+taurate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) 
+  - [Curcumin](https://www.google.com/search?q=Curcumin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Quercetin](https://www.google.com/search?q=Quercetin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Passiflora incarnata](https://www.google.com/search?q=Passiflora+incarnata+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Valeriana officinalis](https://www.google.com/search?q=Valeriana+officinalis+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [L-Theanine](https://www.google.com/search?q=L-Theanine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
