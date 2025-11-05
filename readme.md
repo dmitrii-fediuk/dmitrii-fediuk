@@ -39,9 +39,10 @@ Training after work promotes my deep and healthy sleep.
   - [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - Magnesium:  
-    - [Citrate](https://www.google.com/search?q=Magnesium+citrate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-    - [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Bisglycinate](https://www.google.com/search?q=Magnesium+bisglycinate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+    - [Citrate](https://www.google.com/search?q=Magnesium+citrate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+    - L-Threonate(https://www.google.com/search?q=Magnesium+L-Threonate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+    - [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
     - [Taurate](https://www.google.com/search?q=Magnesium+taurate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Pyrroloquinoline quinone](https://www.google.com/search?q=Pyrroloquinoline+quinone+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
