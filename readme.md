@@ -78,6 +78,7 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
   - [Quercetin](https://www.google.com/search?q=Quercetin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Passiflora incarnata](https://www.google.com/search?q=Passiflora+incarnata+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Valeriana officinalis](https://www.google.com/search?q=Valeriana+officinalis+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Lycium barbarum](https://www.google.com/search?q=Lycium+barbarum+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [L-Theanine](https://www.google.com/search?q=L-Theanine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Withania somnifera](https://www.google.com/search?q=Withania+somnifera+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Melatonin](https://www.google.com/search?q=Melatonin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
