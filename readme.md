@@ -31,15 +31,19 @@ Deep and prolonged sleep is the foundation for maintaining my cognitive function
 Training before work promotes my high performance throughout the day.    
 Training after work promotes my deep and healthy sleep.  
 🔅 In addition to each training, I always take ice baths.   
-🔅 I take **30+** supplements to boost my cognitive function and general health:  
+🔅 I take **50+** supplements to boost my cognitive function and general health:  
   - [Nicotinamide mononucleotide](https://www.google.com/search?q=Nicotinamide+mononucleotide+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [α-lipoic acid](https://www.google.com/search?q=α-lipoic+acid+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [N-Acetylcysteine](https://www.google.com/search?q=N-Acetylcysteine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-  - [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) 
+  - [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [L-α-Glycerophosphorylcholine](https://www.google.com/search?q=L-α-Glycerophosphorylcholine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Citicoline](https://www.google.com/search?q=Citicoline+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+  - [Pyrroloquinoline quinone](https://www.google.com/search?q=Pyrroloquinoline+quinone+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [L-Tyrosine](https://www.google.com/search?q=L-Tyrosine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - B vitamins:
     - [1](https://www.google.com/search?q=Thiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
       - [Benfotiamine](https://www.google.com/search?q=Benfotiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
@@ -66,10 +70,9 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
     - [Citrate](https://www.google.com/search?q=Magnesium+citrate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - [L-Threonate](https://www.google.com/search?q=Magnesium+L-Threonate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-    - [Taurate](https://www.google.com/search?q=Magnesium+taurate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-  - [Pyrroloquinoline quinone](https://www.google.com/search?q=Pyrroloquinoline+quinone+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-  - [Spermidine](https://www.google.com/search?q=Spermidine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-  - [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+    - [Taurate](https://www.google.com/search?q=Magnesium+taurate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [L-Theanine](https://www.google.com/search?q=L-Theanine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+  - [Melatonin](https://www.google.com/search?q=Melatonin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Astragalus mongholicus](https://www.google.com/search?q=Astragalus+mongholicus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [TA-65](https://www.google.com/search?q=TA-65+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Bacopa monnieri](https://www.google.com/search?q=Bacopa+monnieri+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Berberine](https://www.google.com/search?q=Berberine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
@@ -86,7 +89,6 @@ https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.
   - [Rhodiola rosea](https://www.google.com/search?q=Rhodiola+rosea+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Salvia officinalis](https://www.google.com/search?q=Salvia+officinalis+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Shilajit](https://www.google.com/search?q=Shilajit+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-
  
 🔅 I eat only what fuels my maximum performance: nuts, greens, fish oil, vegetables, berries, seeds, dairy products.   
 I do not eat products with added sugar, meat, flour-based products, fried foods, fast food, or other junk food.  
