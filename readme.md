@@ -36,7 +36,8 @@ Training after work promotes my deep and healthy sleep.
   - [α-lipoic acid](https://www.google.com/search?q=α-lipoic+acid+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [N-Acetylcysteine](https://www.google.com/search?q=N-Acetylcysteine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-  - [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+  - [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) 
+  - [L-α-Glycerophosphorylcholine](https://www.google.com/search?q=L-α-Glycerophosphorylcholine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
   - [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
   - B vitamins:
     - [1](https://www.google.com/search?q=Thiamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
