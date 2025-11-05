@@ -32,7 +32,7 @@ Training before work promotes my high performance throughout the day.
 Training after work promotes my deep and healthy sleep.  
 🔅 In addition to each training, I always take ice baths.   
 🔅 I take **30+** supplements to boost my cognitive function and general health:  
-	- [Nicotinamide mononucleotide](https://www.google.com/search?q=Nicotinamide+mononucleotide+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+	- [Nicotinamide mononucleotide](https://www.google.com/search?q=Nicotinamide+mononucleotide+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [α-lipoic acid](https://www.google.com/search?q=α-lipoic+acid+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [N-Acetylcysteine](https://www.google.com/search?q=N-Acetylcysteine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
