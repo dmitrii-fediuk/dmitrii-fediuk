@@ -47,10 +47,10 @@ I intentionally moved to Türkiye for year-round access to supremely fresh, high
 🔸 My primary Magento project is [`mage2pro/core`](https://github.com/mage2pro/core): a unique middleware that bridges the gap between the out-of-box Magento / Adobe Commerce software and the needs of real-world information systems.       
 It is the main result of my work with Magento / Adobe Commerce for 15 years, since 2010.  
 🔸 **My Magento modules**:  
-⠀⠀⠀⠀🔅 [**129 open source**](https://github.com/topics/mage2pro-module-ready)  
-⠀⠀⠀⠀🔅 [**61 reusable**](https://github.com/topics/mage2pro-module-reusable)  
+⠀⠀⠀⠀🔅 [**30 open source**](https://github.com/topics/mage2pro-module-ready)  
+⠀⠀⠀⠀🔅 [**62 reusable**](https://github.com/topics/mage2pro-module-reusable)  
 ⠀⠀⠀⠀🔅 [**68 bespoke**](https://github.com/topics/mage2pro-module-bespoke)  
-⠀⠀⠀⠀🔅 [**26 payment**](https://github.com/topics/mage2pro-payment)    
+⠀⠀⠀⠀🔅 [**27 payment**](https://github.com/topics/mage2pro-payment)    
 🔸 **My publications**:  
 ⠀⠀⠀⠀🔅 [**df.tips**?order=views](https://df.tips?order=views)  
 ⠀⠀⠀⠀🔅 [**mage2.pro**?order=views](https://mage2.pro?order=views)    
