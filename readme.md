@@ -38,7 +38,7 @@ Training after work promotes my deep and healthy sleep.
 	- [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- Magnesium:
+	- Magnesium:  
 		- [Citrate](https://www.google.com/search?q=Magnesium+citrate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 		- [Malate](https://www.google.com/search?q=Magnesium+malate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 		- [Bisglycinate](https://www.google.com/search?q=Magnesium+bisglycinate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
