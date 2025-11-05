@@ -31,15 +31,16 @@ Deep and prolonged sleep is the foundation for maintaining my cognitive function
 Training before work promotes my high performance throughout the day.    
 Training after work promotes my deep and healthy sleep.  
 🔅 In addition to each training, I always take ice baths.   
-🔅 I take **20+** daily to boost my cognitive function and general health:   
-	- [α-lipoic acid](https://en.wikipedia.org/wiki/Lipoic_acid)  
-	- [N-acetylcysteine](https://en.wikipedia.org/wiki/Acetylcysteine)  
-	- [glycine](https://en.wikipedia.org/wiki/Glycine)  
-	- [Acetyl-L-carnitine](https://en.wikipedia.org/wiki/Acetylcarnitine)  
-	- [DMAE](https://en.wikipedia.org/wiki/Dimethylethanolamine)  
-	- [Astragalus mongholicus](https://en.wikipedia.org/wiki/Astragalus_mongholicus) + [TA-65](https://en.wikipedia.org/wiki/Cycloastragenol)  
-	- [Ubiquinol](https://en.wikipedia.org/wiki/Ubiquinol)  
-	- [Hericium erinaceus](https://en.wikipedia.org/wiki/Hericium_erinaceus)
+🔅 I take **20+** daily to boost my cognitive function and general health:  
+	- [Nicotinamide mononucleotide](https://www.google.com/search?q=Nicotinamide+mononucleotide+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+	- [α-lipoic acid](https://www.google.com/search?q=α-lipoic+acid+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [N-Acetylcysteine](https://www.google.com/search?q=N-Acetylcysteine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Glycine](https://www.google.com/search?q=Glycine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Acetyl-L-carnitine](https://www.google.com/search?q=Acetyl-L-carnitine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Dimethylethanolamine](https://www.google.com/search?q=Dimethylethanolamine+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Astragalus mongholicus](https://www.google.com/search?q=Astragalus+mongholicus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US) + [TA-65](https://www.google.com/search?q=TA-65+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Ubiquinol](https://www.google.com/search?q=Ubiquinol+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
+	- [Hericium erinaceus](https://www.google.com/search?q=Hericium+erinaceus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
 	- [Cordyceps militaris](https://en.wikipedia.org/wiki/Cordyceps_militaris)  
 	- [Lingzhi](https://en.wikipedia.org/wiki/Lingzhi_(mushroom))  
 	- [Rhodiola rosea](https://en.wikipedia.org/wiki/Rhodiola_rosea)  
