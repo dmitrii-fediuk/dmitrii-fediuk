@@ -45,7 +45,7 @@ Training after work promotes my deep and healthy sleep.
 	- [Cordyceps militaris](https://www.google.com/search?q=Cordyceps+militaris+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Ganoderma lucidum](https://www.google.com/search?q=Ganoderma+lucidum+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Ginkgo biloba](https://www.google.com/search?q=Ginkgo+biloba+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
-	- [Hericium erinaceus](https://www.google.com/search?q=Hericium+erinaceus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
+	- [Hericium erinaceus](https://www.google.com/search?q=Hericium+erinaceus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Inonotus obliquus](https://www.google.com/search?q=Inonotus+obliquus+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Lentinus edodes](https://www.google.com/search?q=Lentinus+edodes+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
 	- [Matcha](https://www.google.com/search?q=Matcha+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)  
