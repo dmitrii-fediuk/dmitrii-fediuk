@@ -54,7 +54,6 @@ Training after work promotes my deep and healthy sleep.
       - [Riboflavin-5'-phosphate](https://www.google.com/search?q=Riboflavin-5'-phosphate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - 3
       - [Niacin](https://www.google.com/search?q=Niacin+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
-      - [Nicotinamide](https://www.google.com/search?q=Nicotinamide+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
     - 5
       - [Calcium D-Pantothenate](
 https://www.google.com/search?q=Calcium+D-Pantothenate+site:pubmed.ncbi.nlm.nih.gov&pws=0&gl=US)
