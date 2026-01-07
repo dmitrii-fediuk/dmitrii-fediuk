@@ -112,7 +112,7 @@ I intentionally moved to Türkiye for year-round access to supremely fresh, high
 🔅 Perfectly balanced air conditioning and ventilation  
 🔅 Panoramic view of the Sea of Marmara and excellent sea air quality   
 🔸 My primary Magento project is [`mage2pro/core`](https://github.com/mage2pro/core): a unique middleware that bridges the gap between the out-of-box Magento / Adobe Commerce software and the needs of real-world information systems.       
-It is the main result of my work with Magento / Adobe Commerce for 15 years, since 2010.  
+It is the main result of my work with Magento / Adobe Commerce for 16 years, since 2010.  
 🔸 **My Magento modules**:  
 ⠀⠀⠀⠀🔅 [**30 open source**](https://github.com/topics/mage2pro-module-ready)  
 ⠀⠀⠀⠀🔅 [**62 reusable**](https://github.com/topics/mage2pro-module-reusable)  
