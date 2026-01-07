@@ -25,7 +25,7 @@ I also maintain subscriptions to the most expensive AIs from the other 3 major p
 🔸 **Language**    
 I can communicate with you in your native language at a native professional level because I have developed my own multi-stage AI-based translation pipeline that integrates the subject domain, project context, and preceding dialogue.   
 🔸 **Lifestyle**  
-🔅 I sleep 9-10 hours daily, without exceptions.
+🔅 I sleep 9-10 hours daily, without exceptions.  
 Deep and prolonged sleep is the foundation for maintaining my cognitive function, health, and daytime performance.  
 🔅 I dedicate 2 hours to physical training daily, without exceptions: 1 hour before work and 1 hour after work.  
 Training before work promotes my high performance throughout the day.    
