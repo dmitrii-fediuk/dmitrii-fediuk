@@ -2,7 +2,7 @@
 
 🔸 **Hire me** on Upwork: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
 **539** completed projects there, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**, **100% [Job Success Score](https://support.upwork.com/hc/en-us/articles/211068358#what-is-the-job-success-score)**  
-🔸 **GitHub**: **50.8K+** public commits, [**252**](https://github.com/topics/mage2pro) repos  
+🔸 **GitHub**: **52.7K+** public commits, [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience  
 🔸 Certified **[IQ 145](https://df.tips/t/2644)**  
 🔸 **Magento** (**Adobe Commerce**): top **10** worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules   
