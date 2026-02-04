@@ -4,7 +4,7 @@
 **539** completed projects there, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**, **100% [Job Success Score](https://support.upwork.com/hc/en-us/articles/211068358#what-is-the-job-success-score)**  
 🔸 **GitHub**: **52.7K+** public commits, [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience  
-🔸 Certified **[IQ 145](https://df.tips/t/2644)**  
+🔸 Certified **[IQ 145](https://df.tips/t/2644)** (also recently scored **[163](https://df.tips/t/2703)** on another IQ test)   
 🔸 **Magento** (**Adobe Commerce**): top **10** worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules   
 🔸 [**𝟐𝟒** certifications](https://www.credly.com/users/dmitrii-fediuk) validated by Credly  
 🔸 **116** items in my [Upwork portfolio](https://www.upwork.com/fl/mage2pro)  
