@@ -1,6 +1,6 @@
 ![](https://github-readme-stats-fast.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)
 
-🔸 **538** completed projects on [**Upwork**](https://www.upwork.com/fl/mage2pro), **100% [Job Success Score](https://support.upwork.com/hc/en-us/articles/211068358#what-is-the-job-success-score)**  
+🔸 **539** completed projects on [**Upwork**](https://www.upwork.com/fl/mage2pro), **100% [Job Success Score](https://support.upwork.com/hc/en-us/articles/211068358#what-is-the-job-success-score)**  
 🔸 **GitHub**: **50.8K+** public commits, [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience  
 🔸 Certified **[IQ 145](https://df.tips/t/2644)**  
