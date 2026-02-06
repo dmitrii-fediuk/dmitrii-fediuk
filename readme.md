@@ -22,7 +22,7 @@ I always use the most powerful publicly available AIs, regardless of their price
 As of today, the most powerful publicly available AI is **Gemini 3** **[Deep Think](https://blog.google/products/gemini/gemini-3-deep-think)**.  
 I use **5** parallel **Gemini AI** **[Ultra](https://gemini.google/subscriptions#plans)** accounts (totaling **$1250/mo**).   
 Thus, I have access to **50 queries** to **Deep Think** per day, which makes it my primary tool.  
-I also maintain subscriptions to the most expensive AIs from the other 3 major providers, which I use for cross-validation: **OpenAI o5 Pro** (**$240/mo**), **Claude 4.6 Opus** (**$240/mo**), **SuperGrok 4 Heavy** (**$360/mo**).  
+I also maintain subscriptions to the most expensive AIs from the other 3 major providers, which I use for cross-validation: **OpenAI GPT-5.2 pro** (**$240/mo**), **Claude 4.6 Opus** (**$240/mo**), **SuperGrok 4 Heavy** (**$360/mo**).  
 🔸 **Language**    
 I can communicate with you in your native language at a native professional level because I have developed my own multi-stage AI-based translation pipeline that integrates the subject domain, project context, and preceding dialogue.   
 🔸 **Lifestyle**  
