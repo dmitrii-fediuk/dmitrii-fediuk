@@ -11,14 +11,14 @@
 🔸 Master of Science in **Computer Science** and **Mathematics**, specializing in **AI**  
 🔸 **AI** / **My methodology**   
 🔅 I avoid natural language queries to LLMs.   
-Instead, I have developed my own [formal language](https://github.com/dmitrii-fediuk/o) to construct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)) and execute subsequent ontology-based queries to LLMs.  
+Instead, I have developed my own formal language to construct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)) and execute subsequent ontology-based queries to LLMs.  
 This language is based on the principles of mathematical logic and draws upon the extensive history of knowledge representation languages: [Description Logics](https://en.wikipedia.org/wiki/Description_logic), [OWL (Web Ontology Language)](https://en.wikipedia.org/wiki/Web_Ontology_Language), [RDFS (RDF Schema)](https://en.wikipedia.org/wiki/RDF_Schema), [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System), [Common Logic](https://en.wikipedia.org/wiki/Common_Logic), [Conceptual Graphs](https://en.wikipedia.org/wiki/Conceptual_graph), [OBO (Open Biomedical Ontologies) Format](https://en.wikipedia.org/wiki/OBO_Foundry), [CycL](https://en.wikipedia.org/wiki/CycL), [KL-ONE](https://en.wikipedia.org/wiki/KL-ONE), [KIF (Knowledge Interchange Format)](https://en.wikipedia.org/wiki/Knowledge_Interchange_Format), [F-Logic (Frame Logic)](https://en.wikipedia.org/wiki/F-logic).  
 🔅 Thus, my first step in solving any AI task is constructing an ontology (a domain model) in my formal language.  
 This rigorous process typically requires hours (and sometimes days).     
 🔅 Once the ontology is constructed, I query the LLM using my formal language, attaching both the language specification and the ontology.  
 This methodology makes the AI's reasoning ferociously powerful: it accurately captures the essence of the task and discards unproductive hypotheses faster, directing the reasoning process towards the most promising ones.  
 I always use the most powerful publicly available AIs, regardless of their price; consequently, their context windows and computational resources are sufficient to process such complex queries.  
-🔸 **AI** / **My current models** (**January 2026**)  
+🔸 **AI** / **My current models** (**March 2026**)  
 As of today, the most powerful publicly available AI is **Gemini 3** **[Deep Think](https://blog.google/products/gemini/gemini-3-deep-think)**.  
 I use **5** parallel **Gemini AI** **[Ultra](https://gemini.google/subscriptions#plans)** accounts (totaling **$1250/mo**).   
 Thus, I have access to **50 queries** to **Deep Think** per day, which makes it my primary tool.  
