@@ -6,7 +6,7 @@
 🔸 **GitHub**: **51.7K+** public commits (since 2009), [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience    
 🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules 
-🔸 **539** completed projects on Upwork
+🔸 **539** completed projects on Upwork  
 🔸 **117** items in my Upwork portfolio
 🔸 Master of Science in **Computer Science** and **Mathematics**, specializing in **AI**  
 🔸 **Publications**:  
