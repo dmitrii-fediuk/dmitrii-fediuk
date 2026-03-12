@@ -5,7 +5,7 @@
 🔸 **IQ** [**145**](https://df.tips/t/2644)-[**163**](https://df.tips/t/2703)  
 🔸 **GitHub**: **51.7K+** public commits (since 2009), [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience    
-🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules 
+🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules   
 🔸 **539** completed projects on Upwork  
 🔸 **117** items in my Upwork portfolio
 🔸 Master of Science in **Computer Science** and **Mathematics**, specializing in **AI**  
