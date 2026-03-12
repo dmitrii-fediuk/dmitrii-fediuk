@@ -5,7 +5,7 @@
 🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules  
 🔸 **GitHub**: **51.7K+** public commits (since 2009), [**252**](https://github.com/topics/mage2pro) repos  
 🔸 Master of Science in **Computer Science** and **Mathematics**, specializing in **AI**  
-🔸 **539** completed projects on **Upwork** [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro), **117** items in the portfolio, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**  
+🔸 **539** completed projects on **Upwork** ([upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)), **117** items in the portfolio, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**  
 🔸 **Publications**:  
   ▹ [**mage2.pro**?order=views](https://mage2.pro?order=views)   
   ▹ [**df.tips**?order=views](https://df.tips?order=views)       
