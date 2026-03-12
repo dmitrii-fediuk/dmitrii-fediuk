@@ -1,13 +1,11 @@
 ![](https://github-readme-stats-fast.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)
 
 🔸 **Hire me** on Upwork: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
-**539** completed projects there, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**  
+**539** completed projects there, **117** items in portfolio, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**  
 🔸 **IQ** [**145**](https://df.tips/t/2644)-[**163**](https://df.tips/t/2703)  
 🔸 **GitHub**: **51.7K+** public commits (since 2009), [**252**](https://github.com/topics/mage2pro) repos  
 🔸 **26** years of experience    
-🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules   
-🔸 **539** completed projects on Upwork  
-🔸 **117** items in my Upwork portfolio
+🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules
 🔸 Master of Science in **Computer Science** and **Mathematics**, specializing in **AI**  
 🔸 **Publications**:  
   ▹ [**mage2.pro**?order=views](https://mage2.pro?order=views) 
