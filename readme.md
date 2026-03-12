@@ -8,11 +8,11 @@
 🔸 **Hire me** on Upwork: [upwork.com/fl/mage2pro](https://www.upwork.com/fl/mage2pro)  
 **539** completed projects there, **117** items in the portfolio, **[Top Rated Plus](https://support.upwork.com/hc/en-us/articles/211063568-Understand-freelancer-talent-badges#section_2)**  
 🔸 **Publications**:  
-  ▹ [**mage2.pro**?order=views](https://mage2.pro?order=views) 
-  ▹ [**df.tips**?order=views](https://df.tips?order=views)     
-  ▹ [**dmitry.ai**?order=views](https://dmitry.ai?order=views)
-  ▹ [**discourse.pro**?order=views](https://discourse.pro?order=views)   
-  ▹ [**oplatform.club**?order=views](https://oplatform.club?order=views)  
+  ▹ [**mage2.pro**?order=views](https://mage2.pro?order=views)   
+  ▹ [**df.tips**?order=views](https://df.tips?order=views)       
+  ▹ [**dmitry.ai**?order=views](https://dmitry.ai?order=views)  
+  ▹ [**discourse.pro**?order=views](https://discourse.pro?order=views)     
+  ▹ [**oplatform.club**?order=views](https://oplatform.club?order=views)    
 🔸 **Certifications**:
   ▹ [PyTorch](https://www.credly.com/badges/9ca08ba1-a337-4cba-a07e-f9cdcdf40f28) | [TensorFlow](https://www.credly.com/badges/5398d985-f0d8-4abf-8951-526e61a4fad3) | [Keras](https://www.credly.com/badges/2b3a72f1-5078-4b76-87e3-81d0f65d5c8c) | [Machine Learning](https://www.credly.com/badges/c4ad467b-89c2-4472-b990-0aef2a2e0c67)
   ▹ [React](https://www.credly.com/badges/af208d63-4c9c-41c1-b803-b05792271dd5) | [Vue.js](https://www.credly.com/badges/ca39ce97-5a52-43ba-8c3d-cd31563fa8ec) | [Node.js](https://www.credly.com/badges/2de700ee-e42f-404e-a62a-2e55e03e5c67) | [Angular](https://www.credly.com/badges/d627300b-9421-48b4-89d6-9cd37c01281f)
