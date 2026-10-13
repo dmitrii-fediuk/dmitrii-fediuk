@@ -1,6 +1,5 @@
 ![](https://github-readme-stats-fast.vercel.app/api?username=dmitrii-fediuk&show_icons=true&hide=stars,prs&count_private=true&hide_rank=true&hide_title=true&include_all_commits=true)
 
-🔸 **IQ** [**145**](https://df.tips/t/2644)-[**163**](https://df.tips/t/2703)  
 🔸 **26** years of experience    
 🔸 Magento | Hyvä | Adobe Commerce: top 10 worldwide, [**130**](https://github.com/topics/mage2pro-module-ready) open source modules  
 🔸 **GitHub**: **51.7K+** public commits (since 2009), [**252**](https://github.com/topics/mage2pro) repos  
